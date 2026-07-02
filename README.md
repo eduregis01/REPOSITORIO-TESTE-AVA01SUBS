@@ -90,7 +90,9 @@ Inserir aresta:
 Saída
 MATRIZ DE INCIDENCIA
 
-      e0  e1  e2
+     
+      
+e    e0  e1  e2
 v0    1   1   0
 v1    1   0   1
 v2    0   1   0
@@ -115,7 +117,7 @@ O valor 0 indica ausência de incidência.
 
 Exemplo:
 
-      e0 e1 e2
+e     e0 e1 e2
 v0    1  1  0
 v1    1  0  1
 v2    0  1  0
